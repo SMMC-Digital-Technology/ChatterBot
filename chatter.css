@@ -1,0 +1,58 @@
+/* DOCTYPE CSS */
+
+html {
+    
+}
+
+head {
+    
+}
+
+body {
+    width: 80%;
+    margin-left: auto;
+    margin-right:auto;   
+}
+
+#container {
+    
+}
+
+footer {
+    width: 80%;
+    position: fixed;
+    bottom: 10px;
+    height: 80px;
+    border: 3px inset blue;
+}
+
+
+input {
+    font-size: 2em;
+}
+
+
+input[type=text] {
+    width: 80%;
+    
+}
+
+div {
+    height: 500px;
+    overflow-y: scroll;
+    border: 3px outset red;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+.user {
+    
+}
+
+.bot {
+    text-align: right;
+    
+    
+}
